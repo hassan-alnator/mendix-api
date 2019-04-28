@@ -41,5 +41,9 @@
   "account": {
     "dataSource": "db",
     "public": true
+  },
+  "blacklist": {
+    "dataSource": "db",
+    "public": true
   }
 }
